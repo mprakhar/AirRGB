@@ -1,0 +1,61 @@
+Continent,Country,city,lat,lon,GDP,vehicle
+Europe,Austria,Vienna,48.21,16.37,43775,682860
+Europe,Belarus,Minsk,53.9,27.56,5740,656600
+Europe,Belgium,Brussels,50.85,4.35,40324,509051
+Europe,Bulgaria,Sofia,42.7,23.32,6993,93880
+Europe,Czech Republic,Prague,50.11,14.27,17548,948872
+Europe,United Kingdom,London,51.51,-0.13,43876,2000000
+Europe,France,Paris,48.86,2.35,36205,6000000
+Europe,Germany,Berlin,52.52,13.4,41313,1354881
+Europe,Greece,Athens,37.98,23.73,18002,7010565
+Europe,Hungary,Budapest,47.5,19.04,12363,797000
+Europe,Italy,Rome,41.9,12.5,29957,3269466
+Europe,Poland,Warsaw,52.23,21.01,12554,1200000
+Europe,Romania,Bucharest,44.43,26.1,8972,1240000
+Europe,Spain,Madrid,40.42,-3.7,25831,3327200
+Europe,Sweden,Stockholm,59.33,18.07,50579,887057
+Europe,Switzerland,Bern,46.95,7.45,80945,489626
+Europe,Ukraine,Kiev,50.45,30.52,2115,1300000
+Europe,Russian Federation,Khabarovsk,48.5,135.07,9092,100000
+Europe,Russian Federation,Moscow,55.76,37.62,9092,4000000
+Europe,Russian Federation,Novosibirsk,55.01,82.94,9092,100000
+Africa,Egypt,Cairo,30.04,31.24,3614,1950000
+Africa,Nigeria,Lagos,6.52,3.38,2640,1200000
+Africa,South Africa,Johannesburg,-26.2,28.05,5724,1900000
+SouthAmerica,Argentina,BuenosAires,-34.6,-58.38,13431,2000000
+SouthAmerica,Brazil,RioDeJaneiro,-22.91,-43.17,8538,3220000
+SouthAmerica,Brazil,SaoPaulo,-23.55,-46.63,8538,7000000
+SouthAmerica,Chile,Santiago,-33.45,-70.67,13416,991838
+SouthAmerica,Mexico,MexicoCity,19.43,-99.13,9005,5500000
+SouthAmerica,Peru,Lima,-12.05,-77.04,6027,1397000
+NorthAmerica,United States,LosAngeles,34.05,-118.24,56115,7533131
+NorthAmerica,United States,NewYork,40.71,-74.01,56115,1980000
+NorthAmerica,United States,WashingtonDC,38.91,-77.04,56115,3800000
+Asia,Afghanistan,Kabul,34.56,69.21,594,1200000
+Asia,Azerbaijan,Baku,40.41,49.87,5496,702000
+Asia,Bangladesh,Dhaka,23.81,90.41,1211,446930
+Asia,China,Beijing,39.9,116.41,8027,5755000
+Asia,China,Chongqing,29.56,106.55,8027,1551540
+Asia,China,HongKong,22.4,114.11,42327,504798
+Asia,China,Shanghai,31.23,121.47,8027,2870000
+Asia,China,Ulumuti,39.1,117.19,8027,943100
+Asia,India,Bangalore,12.97,77.59,1598,5500000
+Asia,India,Kolkata,22.57,88.36,1598,4960000
+Asia,India,Mumbai,19.08,72.88,1598,2500000
+Asia,India,NewDelhi,28.61,77.21,1598,8827000
+Asia,Indonesia,Jakarta,-6.21,106.85,3346,5500000
+Asia,Iraq,Baghdad,33.31,44.36,4943,766500
+Asia,Japan,Tokyo,35.71,139.73,32477,3140651
+Asia,Kazakhstan,Almaty,43.22,76.85,10510,459000
+Asia,Myanmar,Naypyidaw,19.76,96.08,1161,3699109
+Asia,Myanmar,Yangon,16.87,96.2,1161,600000
+Asia,Nepal,Kathmandu,27.72,85.32,743,571145
+Asia,North Korea,Pyongyang,39.04,125.76,0,290000
+Asia,Pakistan,Islamabad,33.73,73.09,1434,700000
+Asia,Philippines,Manila,14.6,120.98,2904,2500000
+Asia,Singapore,Singapore,1.36,103.87,52887,956430
+Asia,South Korea,Busan,35.18,129.08,27221,1303900
+Asia,South Korea,Seoul,37.57,126.98,27221,3000000
+Asia,Thailand,Bangkok,13.76,100.5,5814,7384934
+Asia,Vietnam,HoChiMinh,17.66,106.25,2111,7200000
+Oceania,Australia,Sydney,-33.87,151.21,56311,2000000
